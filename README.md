@@ -21,4 +21,6 @@ _敬请期待_
 
 ## 授权许可
 
-本教程采用 MIT-0 开源授权许可证，完整的授权说明已放置在 [LICENSE](https://github.com/unknwon/flamego-basics/blob/main/LICENSE) 文件中。
+本教程中的视频内容采用 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) 授权。
+
+本仓库中的文件采用 MIT-0 开源授权许可证，完整的授权说明已放置在 [LICENSE](https://github.com/unknwon/flamego-basics/blob/main/LICENSE) 文件中。
