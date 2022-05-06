@@ -6,7 +6,7 @@
 
 - **教程讲师**：[无闻](https://github.com/unknwon)
 - **语言版本**：Go 语言 >=1.16
-- **框架版本**：Flamego >= 1.1.0
+- **框架版本**：Flamego >= 1.2.0
 - **开发工具**：[Visual Studio Code](https://code.visualstudio.com/)
 - **开发系统**：macOS M1
 - **其它说明**：_敬请期待_
