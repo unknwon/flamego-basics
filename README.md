@@ -14,11 +14,11 @@
 	- [哔哩哔哩](https://space.bilibili.com/2030700139/channel/collectiondetail?sid=394527)
 	- [YouTube](https://www.youtube.com/playlist?list=PLDZk3eV9LVFVDhCx3yu2c3zFVc3MFJEtx)
 - **课程下载**：
-	- _敬请期待_
+	- [腾讯微云](https://share.weiyun.com/1o525wKc)
 
 ## 教程大纲
 
-| 期数 | 课时标题 | 在线播放 |
+| 期数 | 标题 | 在线播放 |
 |:-----:|:--------|:-------|
 |第 1 期|[教程大纲及框架介绍](lecture1)|[哔哩哔哩](https://www.bilibili.com/video/BV1S34y187AV) [YouTube](https://youtu.be/hr-uRnhDRB8)|
 
