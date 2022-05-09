@@ -22,6 +22,12 @@
 |:-----:|:--------|:-------|
 |第 1 期|[教程大纲及框架介绍](lecture1)|[哔哩哔哩](https://www.bilibili.com/video/BV1S34y187AV) [YouTube](https://youtu.be/hr-uRnhDRB8)|
 
+## 社区交流
+
+欢迎扫码加入 QQ 群参与社区交流！
+
+![Flamego 社区交流群](https://user-images.githubusercontent.com/2946214/167411317-d53d51dd-4705-492a-a81d-ccabdaf01ad1.JPG)
+
 ## 授权许可
 
 本教程中的视频内容采用 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.zh) 授权。
