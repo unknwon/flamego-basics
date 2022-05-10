@@ -18,9 +18,10 @@
 
 ## 教程大纲
 
-| 期数 | 标题 | 在线播放 |
+| 课时 | 标题 | 在线播放 |
 |:-----:|:--------|:-------|
 |第 1 期|[教程大纲及框架介绍](lecture1)|[哔哩哔哩](https://www.bilibili.com/video/BV1S34y187AV) [YouTube](https://youtu.be/hr-uRnhDRB8)|
+|第 2 期|[Hello world 解析](lecture2)|[哔哩哔哩](https://www.bilibili.com/video/BV1UY4y1b7gG) [YouTube](https://youtu.be/sV5LbbB21d0)|
 
 ## 社区交流
 
