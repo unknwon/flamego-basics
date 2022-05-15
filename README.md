@@ -23,6 +23,7 @@
 |第 1 期|[教程大纲及框架介绍](lecture1)|[哔哩哔哩](https://www.bilibili.com/video/BV1S34y187AV) [YouTube](https://youtu.be/hr-uRnhDRB8)|
 |第 2 期|[Hello world 解析](lecture2)|[哔哩哔哩](https://www.bilibili.com/video/BV1UY4y1b7gG) [YouTube](https://youtu.be/sV5LbbB21d0)|
 |第 3 期|请求对象与响应流|[哔哩哔哩](https://www.bilibili.com/video/BV1gY411w72v) [YouTube](https://youtu.be/i7lsqva4P_A)|
+|第 4 期|日志、panic 与内容渲染|[哔哩哔哩](https://www.bilibili.com/video/BV1su41167CG) [YouTube](https://youtu.be/S2ejIsw7mI8)|
 
 ## 社区交流
 
