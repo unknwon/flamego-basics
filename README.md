@@ -25,6 +25,7 @@
 |第 3 期|请求对象与响应流|[哔哩哔哩](https://www.bilibili.com/video/BV1gY411w72v) [YouTube](https://youtu.be/i7lsqva4P_A)|
 |第 4 期|日志、panic 与内容渲染|[哔哩哔哩](https://www.bilibili.com/video/BV1su41167CG) [YouTube](https://youtu.be/S2ejIsw7mI8)|
 |第 5 期|自定义服务|[哔哩哔哩](https://www.bilibili.com/video/BV1rY4y1t7Kj) [YouTube](https://youtu.be/wfyrn1wR6T8)|
+|第 6 期|处理器返回值|[哔哩哔哩](https://www.bilibili.com/video/BV1dA4y1o7sn) [YouTube](https://youtu.be/m4YnJcmnj44)|
 
 ## 社区交流
 
