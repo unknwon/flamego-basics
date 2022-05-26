@@ -9,7 +9,6 @@
 - **框架版本**：Flamego >= 1.2.0
 - **开发工具**：[Visual Studio Code](https://code.visualstudio.com/)
 - **开发系统**：macOS M1
-- **其它说明**：_敬请期待_
 - **在线观看**：
 	- [哔哩哔哩](https://space.bilibili.com/2030700139/channel/collectiondetail?sid=394527)
 	- [YouTube](https://www.youtube.com/playlist?list=PLDZk3eV9LVFVDhCx3yu2c3zFVc3MFJEtx)
